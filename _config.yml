@@ -1,14 +1,14 @@
 # Site settings
-title: oukohou
-subtitle: [ 璇珠杂俎]
-keywords: oukohou
-description: 我梦扬州，便想到扬州梦我。幸会。微信公众号：oukohou.
+title: 筑基期炼丹师
+subtitle: [理心炼丹]
+keywords: 理心炼丹
+description: 学以广才，志以成学。幸会。微信公众号：.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.oukohou.wang/" # 你的域名
-page_no_title: "oukohou's blog" # 文章无标题时默认显示内容
+url: "https://deepconnectionism.github.io/" # 你的域名
+page_no_title: "理心炼丹's blog" # 文章无标题时默认显示内容
 beian: # "备案号"
-author: oukohou
-email: oukohou@outlook.com
+author: 理心炼丹
+email: 904964313@qq.com
 
 # Build settings
 permalink: /:year/:month/:day/:title/
@@ -27,12 +27,12 @@ kramdown:
 
 
 # Pageinate settings
-paginate: 8 # 分页大小
+paginate: 8 # 分页大小 每页几篇文章
 paginate_path: "page/:num/"
 
 # Search settings
 baidu_search: true
-google_search: # true
+google_search: true
 
 # Menu settings
 menu:
@@ -60,8 +60,8 @@ links: # 友情链接
 
   - title: ccslience's blog
     url: http://ccslience.oukohou.wang/
-  - title: oukohou's github
-    url: https://github.com/oukohou
+  - title: deepconnectionism's github
+    url: https://github.com/deepConnectionism
 #  - title:
 #    url: http://jekyllcn.com/
   - title: Jekyll blog system
@@ -69,14 +69,14 @@ links: # 友情链接
 
 
 # Google Analytics
-ga_track_id: 'UA-130856615-1'            # Format: UA-xxxxxx-xx
-ga_domain: www.oukohou.wang              # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_track_id: 'G-VDQ5L9XSCC'            # Format: UA-xxxxxx-xx
+ga_domain: auto              # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 # Code hub settings
 codehub: # 代码仓库
   - title: Github
-    url: https://github.com/oukohou
+    url: https://github.com/deepConnectionism
 
 
 valine:
